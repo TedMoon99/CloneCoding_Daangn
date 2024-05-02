@@ -24,3 +24,5 @@ class MainActivity : AppCompatActivity() {
 // github 연동테스트 주석2
 // github 연동테스트 주석3
 // github 브랜치 연동 테스트 주석4
+// github 연동테스트 주석4
+// github 브랜치 연동테스트 주석5
