@@ -33,5 +33,5 @@ class MainActivity : AppCompatActivity() {
 //
 //
 /// vuuybuybyubuybybub///
-///
+/// ㄴㅁ아룬이ㅏㅁ루ㅏㅣㄴㅇ리ㅏㄴㅁㅇ리ㅏㄴㅇ머ㅏㅣ런ㅁ이ㅏ런미ㅏ러ㅣㄴ멍리ㅏㅇㅁ너리ㅏ
 ///
