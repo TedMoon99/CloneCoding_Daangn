@@ -22,3 +22,4 @@ class MainActivity : AppCompatActivity() {
 
 // github 연동테스트 주석1
 // github 연동테스트 주석2
+// github 연동테스트 주석3
