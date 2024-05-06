@@ -7,8 +7,11 @@
     tools:context=".MainFragment">
 
     <TextView
+        android:id="@+id/textViewMain"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:text="히히 구시현 바보~" />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
