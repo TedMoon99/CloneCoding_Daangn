@@ -132,3 +132,6 @@ class MainActivity : AppCompatActivity() {
 enum class FragmentName(var str: String){
     MAIN_FRAGMENT("MainFragment")
 }
+
+// 구시현
+
