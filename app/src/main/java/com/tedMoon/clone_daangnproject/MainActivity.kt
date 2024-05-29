@@ -140,6 +140,8 @@ enum class FragmentName(var str: String){
  구시현 응답 확인1
  구시현 응답 확인2
  구시현 응답 확인3
+ Test2
+ Test2
  구시현 응답 확인4
  */
 // 구시현
